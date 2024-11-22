@@ -11,6 +11,6 @@ Projects of the course of Artificial Neural Network and Deep Learning of the a.a
 
 ## Repository Structure
 
-### Blood Cells Classification
+#### Blood Cells Classification
 
 In this project, we successfully classified 96x96 RGB images of blood cells into eight distinct classes, each representing a particular cell state. This multi-class classification problem required us to assign the correct class label to each RGB image.
