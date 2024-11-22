@@ -1,15 +1,14 @@
-# Blood Cell Classification
+# Blood Cell Classification 🩸🔬
 
 In this project, we successfully classified 96x96 RGB images of blood cells into eight distinct classes, each representing a particular cell state. This multi-class classification problem required us to assign the correct class label to each RGB image.
 
-## Team OverfittingExorcists
-
+## Team 👨🏻‍💻🚀
 - [Daniele Laganà](https://github.com/danielelagana)
 - [Marcello Martini](https://link.marcellomartini.tech/)
 - [Gianluigi Palmisano](https://github.com/Gianlu01k)
 - [Samuele Pozzani](https://github.com/sampozz)
 
-## Folder content
+## Folder content 🗂️
 
 ```bash
 Blood Cells classification
@@ -28,7 +27,7 @@ Blood Cells classification
 - **EfficientNetV2S RandAugment.ipynb**: Jupyter notebook for training the model using RandAugment techniques.
 - **model.py**: Python class containing the implementation of the model and related functions for Test Time Augmentation and model Ensemble prediction.
 
-## Dataset Details
+## Dataset Details 🔎
 
 ![Blood Cell Dataset](bloodcells-dataset-sample.png)
 
@@ -38,7 +37,7 @@ Blood Cells classification
 - **File Format:** npz (Numpy archive)
 - **Number of Classes:** 8
 
-## Class Labels
+## Class Labels 🏷️
 
 - 0: Basophil
 - 1: Eosinophil
@@ -49,7 +48,7 @@ Blood Cells classification
 - 6: Neutrophil
 - 7: Platelet
 
-## Dataset Structure
+## Dataset Structure 📊
 
 The training data is provided in the `train_data.npz` file, which contains:
 

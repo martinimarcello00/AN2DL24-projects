@@ -1,16 +1,16 @@
-# AN2DL24-projects
+# AN2DL24projects
 
 Projects of the course of Artificial Neural Network and Deep Learning of the a.y. 2024/25
 
-## Team OverfittingExorcists
+ ## Team 👨🏻‍💻🚀
 
 - [Daniele Laganà](https://github.com/danielelagana)
 - [Marcello Martini](https://link.marcellomartini.tech/)
 - [Gianluigi Palmisano](https://github.com/Gianlu01k)
 - [Samuele Pozzani](https://github.com/sampozz)
 
-## Repository Structure
+## Repository Structure 🗂️
 
-#### Blood Cells Classification
+#### Blood Cells Classification 🩸🔬
 
 In this project, we successfully classified 96x96 RGB images of blood cells into eight distinct classes, each representing a particular cell state. This multi-class classification problem required us to assign the correct class label to each RGB image.
