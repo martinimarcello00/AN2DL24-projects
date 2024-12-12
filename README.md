@@ -14,3 +14,7 @@ Projects of the course of Artificial Neural Network and Deep Learning of the a.y
 #### Blood Cells Classification 🩸🔬
 
 In this project, we successfully classified 96x96 RGB images of blood cells into eight distinct classes, each representing a particular cell state. This multi-class classification problem required us to assign the correct class label to each RGB image.
+
+### Martian Terrain Semantic Segmentation 🪐🔍
+
+In this project, we developed an ensemble model for segmenting Martian terrain images. The ensemble combines multiple U-Net models with custom enhancements to improve segmentation accuracy.
