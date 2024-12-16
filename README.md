@@ -17,4 +17,4 @@ In this project, we successfully classified 96x96 RGB images of blood cells into
 
 ### Martian Terrain Semantic Segmentation 🪐🔍
 
-In this project, we developed an ensemble model for segmenting Martian terrain images. The ensemble combines multiple U-Net models with custom enhancements to improve segmentation accuracy.
+In this project, we developed an ensemble model for segmenting 64x128 grayscale Martian terrain images. The ensemble combines multiple U-Net models with custom enhancements to improve segmentation accuracy.
